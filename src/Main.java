@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args){
         PriductOrder[] priductOrder = new PriductOrder[3];
-
+//test
         priductOrder[0]=new PriductOrder();
         priductOrder[0].prodcutName="두부";
         priductOrder[0].price=2000;
